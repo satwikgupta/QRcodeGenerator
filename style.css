@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    align-items: center;
+    /* justify-content: center; */
+}
+body{
+    width: auto;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input{
+    width: 250px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+}
